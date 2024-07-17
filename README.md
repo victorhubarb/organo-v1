@@ -18,7 +18,7 @@ Project created to put into practice the knowledge acquired in Alura's React cou
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Live Application
-![Organo Demonstration](https://organo-ten-topaz.vercel.app)
+[Organo Demonstration](https://organo-ten-topaz.vercel.app)
  
 ## Features
 - **Complete React App**: Developed entirely as a React application, ensuring a fluid and responsive user experience.
@@ -59,7 +59,8 @@ Once you have the project setup, follow these steps to run the application:
 - **Start the Application**:
   ```bash
   npm start
-  <p align="right">(<a href="#readme-top">back to top</a>)</p>
+ <p align="right">(<a href="#readme-top">back to top</a>)</p>
+ 
 
 ## Technologies Used
 ![Static Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
