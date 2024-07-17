@@ -45,6 +45,7 @@ You can obtain the source code of the project in two ways:
   ```bash
   # Open your terminal
   git clone https://github.com/victorhubarb/organo.git
+  
   # Navigate to the project directory
   cd organo-v1
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
