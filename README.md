@@ -19,6 +19,7 @@ Project created to put into practice the knowledge acquired in Alura's React cou
 
 ## Live Application
 [Organo Demonstration](https://organo-ten-topaz.vercel.app)
+
  
 ## Features
 - **Complete React App**: Developed entirely as a React application, ensuring a fluid and responsive user experience.
