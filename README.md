@@ -54,6 +54,7 @@ Once you have the project setup, follow these steps to run the application:
   ```bash
   # Navigate to the project directory if you haven't already
   cd organo-v1
+  
   # Install the necessary packages
   npm install
 
