@@ -12,8 +12,6 @@
 * [Project Developers](#project-developers)
 
 ## Project Description
-Project created to put into practice the knowledge acquired in Alura's React course from a React project.
-
 **Organo v1** is a web application developed to facilitate team management within companies or for personal use with a focus on technological teams. This application allows you to create interactive cards that display detailed information about team members, including name, image, team they belong to, and their specific roles. Ideal for managers and team leaders looking for an efficient and visual solution to organize human resources and their skills.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
