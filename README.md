@@ -1,76 +1,54 @@
 # Organo v1 <a name="readme-top"></a>
 ![Static Badge](https://img.shields.io/badge/status-completed-green?style=for-the-badge)
 
-## Table of Contents 
-* [Title and Cover Image](#title-and-cover-image)
-* [Badges](#badges)
-* [Table of Contents](#table-of-contents)
-* [Project Description](#project-description)
-* [Features and Application Demonstration](#features-and-application-demonstration)
-* [Project Access](#project-access)
-* [Technologies Used](#technologies-used)
-* [Project Developers](#project-developers)
-
-## Project Description
-Organo v1 is a web application developed to facilitate team management within companies or for personal use with a focus on technological teams. This application allows you to create interactive cards that display detailed information about team members, including name, image, team they belong to, and their specific roles. Ideal for managers and team leaders looking for an efficient and visual solution to organize human resources and their skills.
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## Introduction
+**Organo** is a web application developed to facilitate the management and organization of teams and employees. Through an intuitive interface, the application allows you to create interactive cards with detailed information about each team member, such as name, role, image, and the team they belong to. Ideal for managers and leaders looking for a visual solution to organize human resources.
 
 ## Live Application
-[Organo Demonstration](https://organo-ten-topaz.vercel.app)
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+[Organo v1 Demonstration](https://organo-ten-topaz.vercel.app)
 
- 
-## Features
-- **Complete React App**: Developed entirely as a React application, ensuring a fluid and responsive user experience.
-- **Registration Form**: Allows users to add collaborators with information such as name, role, image, and team.
-- **Dynamic Card Creation**: After filling out the form and clicking the "Create Card" button, a card is automatically generated displaying the collaborator's information.
-- **Visual Organization by Teams**: Collaborators are organized in separate lines by teams, with distinct colors for each team, facilitating visual identification.
-- **Automatic Form Clearing**: After creating a card, the form is automatically cleared, preparing it for the next entry.
-- **Responsiveness**: Interface adapted to work across different devices, though there is still room for improvements in full responsiveness.
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Technologies](#technologies)
+- [Contributors](#contributors)
 
-## Project Access
+## Installation
 
 ### Prerequisites
-- **Integrated Development Environment (IDE)**: Ensure you have your preferred IDE installed on your computer.
-- **Node.js**: Necessary for running the project. [Install Node.js here](https://nodejs.org/en/download/).
+- Node.js installed
+- Code editor (optional for development)
 
-### Getting the Code
-You can obtain the source code of the project in two ways:
-- **Download ZIP**:
-  - [Download the ZIP file here](https://github.com/victorhubarb/organo-v1/archive/refs/heads/main.zip), unzip it on your computer and open the project in your IDE.
-- **Clone via Git**:
-  ```bash
-  # Open your terminal
-  git clone https://github.com/victorhubarb/organo.git
-  
-  # Navigate to the project directory
-  cd organo-v1
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+### Steps to run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/victorhubarb/organo-v1.git
+   cd organo-v1
+   ```
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Start the application:
+   ```bash
+   npm start
+   ```
 
-### Running the Project
-Once you have the project setup, follow these steps to run the application:
-- **Install Dependencies**:
-  ```bash
-  # Navigate to the project directory if you haven't already
-  cd organo-v1
-  
-  # Install the necessary packages
-  npm install
+## Usage
+**Organo** allows users to register employees and organize them into teams. With each new registration, a card is automatically created with the information entered. Teams are color-coded for easy visibility.
 
-- **Start the Application**:
-  ```bash
-  npm start
- <p align="right">(<a href="#readme-top">back to top</a>)</p>
- 
+## Features
+- **Registration Form**: Add employees with name, role, image, and team.
+- **Dynamic Card Creation**: Automatic generation of cards with employee information.
+- **Visual Organization by Teams**: Separation of employees by team, with different colors for each one.
+- **Responsive Design**: Adapted to different devices.
 
-## Technologies Used
-![Static Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Static Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## Technologies
+- **React**
+- **CSS**
+- **JavaScript**
 
-## Project Developers
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/80085116?v=4" width=115><br><sub>Victor Barbosa</sub>](https://github.com/victorhubarb) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/4975968?s=200&v=4" width=115><br><sub>Alura</sub>](https://github.com/alura-cursos) |
-| :---: | :--: |
+## Contributors
+- [Victor Barbosa](https://github.com/victorhubarb)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
